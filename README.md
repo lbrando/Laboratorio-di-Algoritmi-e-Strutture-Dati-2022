@@ -22,4 +22,7 @@ Linguaggio C++ e basi per poter implementare le librerie che il professore asseg
 - l'opzione precedente
 - a chiunqua voglia una spiegazione chiara e COMPLETA del linguaggio C++
 
+## Votazioni degli exercises:
+- Exercise 1: 26
+
 
